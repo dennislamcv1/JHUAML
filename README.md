@@ -1,2 +1,6 @@
 # JHUAML
-Applied Machine Learning Specialization
+## Applied Machine Learning Specialization
+
+This specialization is intended for post-graduate students seeking to develop practical machine-learning skills applicable across various domains. Through three comprehensive courses, learners will explore core techniques including supervised learning, ensemble methods, regression analysis, unsupervised learning, and neural networks. The courses emphasize hands-on learning, providing you with the opportunity to apply machine learning to real-world problems like image classification, data feature extraction, and model optimization.
+
+You will dive into advanced topics such as convolutional neural networks (CNNs), reinforcement learning, and apriori analysis, learning to leverage the PyTorch framework for deep learning tasks. By the end of the specialization, you will be well-equipped to handle complex machine learning challenges in fields like computer vision and data processing, making you a valuable asset in industries requiring advanced predictive modeling, AI-driven solutions, and data-driven decision-making. This specialization is designed to build both theoretical knowledge and practical skills to thrive in the ever-evolving tech landscape.
